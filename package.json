@@ -1,14 +1,15 @@
 {
   "name": "thermo-mvp",
   "version": "1.0.0",
-  "main": "script.js",
+  "description": "Valuation Thermometer MVP",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build script placeholder. This command ensures Netlify's build process runs correctly.\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "node-fetch": "^2.7.0"
   }
