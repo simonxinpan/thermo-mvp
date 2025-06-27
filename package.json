@@ -4,13 +4,9 @@
   "description": "Valuation Thermometer MVP",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Build script placeholder. This command ensures Netlify's build process runs correctly.\""
+    "build": "echo \"Build script placeholder\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^2.7.0"
-  }
+  "license": "ISC"
 }

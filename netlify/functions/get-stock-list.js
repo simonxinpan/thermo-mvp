@@ -1,5 +1,4 @@
 // netlify/functions/get-stock-list.js (Final Optimized Version)
-const fetch = require('node-fetch');
 
 const EODHD_API_KEY = process.env.VITE_EODHD_API_KEY;
 // MVP阶段，我们只关注这5只股票
